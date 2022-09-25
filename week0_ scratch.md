@@ -1,1 +1,1 @@
-My implementation of a sidescrolling video game in Scratch, with a welcome and victory screen, 3 levels of gameplay, flashy explosions. The game mechanics could use some tweaking. Check it out here: https://scratch.mit.edu/projects/727517419/
+My implementation of a sidescrolling video game in Scratch, with a welcome and victory screen, 3 levels of gameplay and flashy explosions. The game mechanics could use some tweaking. Check it out here: https://scratch.mit.edu/projects/727517419/
